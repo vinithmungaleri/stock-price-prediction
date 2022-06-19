@@ -1,3 +1,7 @@
 # stock-price-prediction
 
-we have performed linear regressor , decision tree regressor and LSTM on TCS stock price data sheet to know which algorithm performs the best and to gain knowledge in how time series algorithm outstands traditional prediction algorithms.
+we have performed 
+linear regressor , 
+decision tree regressor and 
+LSTM Algorithms
+on <b>TCS stock price</b> data sheet to know which algorithm performs the best and to gain knowledge on how time series algorithm outstands traditional prediction algorithms.
